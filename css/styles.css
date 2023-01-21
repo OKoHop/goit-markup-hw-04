@@ -395,8 +395,8 @@ img {
 }
 
 .clients-link:is(:hover, :focus) {
-    border-color: var(--hover-focus-color);
-    color: var(--hover-focus-color);
+    border-color: var(--pressed-color);
+    color: var(--pressed-color);
 }
 
 /*---------------------------------- Footer Styles ----------------------------------*/
